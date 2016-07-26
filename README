@@ -1,0 +1,3 @@
+See https://autohotkey.com/board/topic/7129-run-a-program-or-switch-to-an-already-running-instance/.
+
+Since Cygwin needs to be run as administrator to create native NTFS symlinks, see https://autohotkey.com/board/topic/70449-enable-interaction-with-administrative-programs/ to control Mintty without running AHK as administrator.
