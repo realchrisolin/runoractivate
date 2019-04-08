@@ -1,3 +1,5 @@
 See https://autohotkey.com/board/topic/7129-run-a-program-or-switch-to-an-already-running-instance/.
 
 Since Cygwin needs to be run as administrator to create native NTFS symlinks, see https://autohotkey.com/board/topic/70449-enable-interaction-with-administrative-programs/ to control Mintty without running AHK as administrator.
+
+I think tracking a single file in git like this is needless overhead, but there's also this README file with useful info in it. To workaround this overhead, this repo is using a submodule pointed at my public gist for the .ahk script, which I update more than this repository.
